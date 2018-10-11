@@ -1,0 +1,9 @@
+{
+  "name": "gmaps-url-signer",
+  "version": "1.0.0",
+  "description": "URL signer for Google Maps API Web Services",
+  "main": "index.js",
+  "repository": "https://github.com/typpo/gmaps-url-signer",
+  "author": "Ian Webster",
+  "license": "MIT"
+}
