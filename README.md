@@ -4,6 +4,10 @@ This is a node.js URL signer for Google Maps API Web Services.  It simply packag
 
 URL signing is used in the Static Maps, Directions, Geocode API, and more.
 
+This library is available as an [npm package](https://www.npmjs.com/package/gmaps-url-signer).  To install, run:
+
+    npm install gmaps-url-signer
+
 Here's an example of how you can use this library:
 
     const urlSigner = require('gmaps-url-signer');
